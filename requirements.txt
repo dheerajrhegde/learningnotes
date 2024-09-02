@@ -1,0 +1,8 @@
+langchain_upstage
+langgraph
+streamlit
+youtube-transcript-api
+pytube
+langchain_openai
+langchain
+langchain_community
